@@ -1,4 +1,4 @@
-#POCO Mobile Landing Page
+# POCO Mobile Landing Page
 
 Project Description:
 	The POCO Mobile Landing Page project is a responsive, interactive website designed to showcase the POCO F5 Pro smartphone. It highlights the key specifications, features, and product details in a visually appealing layout. The project was developed as part of a six-week internship in collaboration with Edunet Foundation, AICTE, and IBM SkillsBuild, and demonstrates proficiency in HTML, CSS, and JavaScript.
