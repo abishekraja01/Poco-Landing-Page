@@ -55,5 +55,4 @@ To run this project locally:
 
 ---
 
-Let me know if you want to include deployment steps, credits, or badges in the README.
 
